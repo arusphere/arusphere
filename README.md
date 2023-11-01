@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ariam 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ariam-y-5a8ab4134/)
 
-<!--
-**arusphere/arusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm  a full-stack software engineer with a global perspective, a passion for urban sustainability, and a solid foundation in coding from completing the Ada Developers Program. 
 
-- 💭 I'm currently on a journey to obtain my AWS Cloud Practitioner Certificate, and I'm excited about the possibilities it offers in the world of cloud computing! 
-- 📖🧠 I'm currently reading up on "Designing Data-Intensive Applications," a book that's expanding and deepening my knowledge in the field. 
-- 👯🤝🚀 I'm open to collaborations that allow me to learn, grow, and contribute to meaningful projects in the tech community.
-Let's team up and create something amazing together!
+- 💭 I'm currently on a journey to obtain my AWS Cloud Practitioner Certificate,
+and I'm excited about the possibilities it offers in the world of cloud computing! 
+- 📖🧠 I'm currently reading up on "Designing Data-Intensive Applications".
+- 🧐While I have a strong technical skill set, I'm always open to guidance and assistance
+  from experienced professionals to navigate the complexities of the tech world.
 - 🌆🏙️🌱 My heart beats for urban cities and sustainability! There's something mesmerizing about the hustle and bustle of city life, 
 and I'm deeply passionate about making these cities more eco-friendly and livable. Let's chat about urban planning and sustainable tech solutions! 
--  🧐While I have a strong technical skill set, I'm always open to guidance and assistance from experienced professionals to navigate the complexities of the tech world.
 - 💬 Feel free to ask me about my experiences transitioning into a tech career, my time at the Ada Developers Program, or how my passion for sustainability intersects with technology. I'm here to share insights and advice! 🗣️💼
-
-- 🐱🐾 On a personal note, I'm also the proud parent of two adorable cats, who sometimes make surprise appearances during my tech adventures! 
-- 🌍🌏🌎 Having lived in three continents, I've gained a global perspective that enriches my approach to tech projects and interactions. It's a small world after all! 
-
+- 🐱🐾 I'm also the proud parent of two adorable cats, who sometimes make surprise appearances during my tech adventures!
+  
 📫 If you'd like to connect or chat about tech, sustainability, or anything in between, you can reach out to me at [LinkedIn](https://www.linkedin.com/in/ariam-y-5a8ab4134/). I'd love to hear from you! 
 
 
@@ -49,14 +47,14 @@ and I'm deeply passionate about making these cities more eco-friendly and livabl
 - The Seattle-Black-Community-Hub-proxy-server is a Python-based web application built using the Flask framework.
 - It provides a RESTful API that allows users to perform CRUD (create, read, update, delete) operations on resources related to black-owned businesses and historical sites in the Seattle area.
    
-### Seattle Black Owned Map - [SobHub Front End](https://github.com/arusphere/Seattle-Black-Community-Hub-proxy-server) | [Demo](https://youtu.be/NdlYf-Foh4M) 
+### Seattle Black Owned Map - [SobHub Front End](https://github.com/arusphere/Seattle-Black-Community-Hub-proxy-server) | [Demo](https://youtu.be/NdlYf-Foh4M) | [Preliminary Research Video](https://youtu.be/_aXyRn0L690)
 - **Tech:** Flask, PostgreSQL, SQLAlchemy, React and Leaflet, Python, Javascript, HTML/CSS, deployed on Heroku
 - Developed a web application that serves as a community hub to help promote Black-owned businesses, services, and historical sites in Seattle, Washington.
 - Users can view a map of Seattle with markers for all the businesses and sites on the map.
 - They can click on each marker to see more information about each location and its contact details.
 - It fetches data from four endpoints using axios, a Promise-based HTTP client, and stores the data in state variables using React hooks.
   
-### Inspiration Board - [Front End](https://github.com/arusphere/front-end-inspiration-board) | [Backend End](https://github.com/arusphere/back-end-inspiration-board) | 
+### Inspiration Board - [Front End](https://github.com/arusphere/front-end-inspiration-board) | [Backend End](https://github.com/arusphere/back-end-inspiration-board) 
 - **Tech:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
 - Collaborated in a 4-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals.
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface
