@@ -1,4 +1,4 @@
-### Hi there, I'm Ariam 👋
+### Hi there, I'm Ariam 👋🏾
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ariam-y-5a8ab4134/)
 
 I'm  a full-stack software engineer with a global perspective, a passion for urban sustainability, and a solid foundation in coding from completing the Ada Developers Program. 
